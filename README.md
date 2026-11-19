@@ -2,3 +2,5 @@
 
 ## Learning about Version Control
 ## Author: Du Du
+
+Solving merge conflicts is easy!
