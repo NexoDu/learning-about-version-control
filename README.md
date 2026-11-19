@@ -3,4 +3,4 @@
 ## Learning about Version Control
 ## Author: Du Du
 
-Solving merge conflicts is soooooo hard!
+Solving merge conflicts takes conscious effort, but I can do it!
